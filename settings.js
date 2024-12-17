@@ -17,9 +17,9 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5493876639332', 'Ian', true],
-   ['573012482597'],
-   ['5218713339906', 'Diego', true]
+   ['573163952124', 'Neykoor', true],
+   [''],
+   ['', '', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -42,12 +42,12 @@ global.jadi = 'AkariJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'Aƙαɾι Bσƚ - MD'
-global.botname = 'Aƙαɾι'
-global.wm = 'AƙαɾιBσƚ-MD 🌸'
-global.author = 'By ianalejandrook15x'
-global.dev = 'Pσɯҽɾҽԃ Bყ Tҽαɱ Sԋιɳιɳɠ'
-global.textbot = 'Aƙαɾι : ιαɳαʅҽʝαɳԃɾσσƙ15x 🌸'
+global.packname = '💫Edeb-beta🦋'
+global.botname = '💫Edeb-beta🦋'
+global.wm = '💫Edeb-beta🦋'
+global.author = '💫Edeb-beta🦋'
+global.dev = '💫Edeb-beta🦋'
+global.textbot = '💫Edeb-beta🦋'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -62,14 +62,14 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
-global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
-global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
-global.md = 'https://github.com/ianalejandrook15x/AkariBot-MD' 
-global.yt = 'https://www.youtube.com/@ianalejandrook14x'
-global.tiktok = 'https://tiktok.com/@ian.ian271'
-global.correo = 'alejandroxddd92@gmail.com'
+global.grupo = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.grupo2 = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.grupo3 = 'https://chat.whatsapp.com/Ckzx2wkWdxQ7orAzC8tNeK'
+global.channel = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'
+global.md = '' 
+global.yt = ''
+global.tiktok = ''
+global.correo = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
