@@ -33,10 +33,10 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/5493876639332'
+global.creador = 'Wa.me/573163952124'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'https://wa.me/5493876639332'
-global.namechannel = 'Tҽαɱ Cԋαɳɳҽʅ Iαɳ 🌸'
+global.asistencia = 'https://wa.me/573163952124'
+global.namechannel = '💫Edeb-beta🦋'
 global.id = "120363268849510279@g.us"
 
 //Reacciones De Comandos.!
@@ -46,8 +46,8 @@ global.error = '✖️'
 
 //Emojis determinado de Akari 
 global.emoji = '🌸'
-global.emoji2 = '🌸'
-global.emoji3 = '✨️'
+global.emoji2 = '💜'
+global.emoji3 = '🦋'
 global.emoji4 = '✨'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
@@ -58,19 +58,19 @@ global.waittt = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
 global.waitttt = '🧸 Eʂρҽɾҽ υɳ ɱσɱҽɳƚσ...'
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'  
-var canal2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'
-var git = 'https://github.com/ianalejandrook15x' 
-var youtube = 'https://www.youtube.com/@ianalejandrook15x' 
-var github = 'https://github.com/ianalejandrook15x/AkariBot-MD'  
-var panel = 'https://panel.skyultraplus.com'
-var dash = 'https://dash.skyultraplus.com'
-var tienda = 'https://dash.skyultraplus.com/store'
-var status = 'https://estado.skyultraplus.com'
-var discord = 'https://discord.com/invite/T7ksHu7mkz'
-var paypal = 'https://paypal.me/kevintomasolazo23'
-let tiktok = 'https://tiktok.com/@ian.ian271'
-let correo = 'alejandroxddd92@gmail.com'
+var canal = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'  
+var canal2 = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'
+var git = '' 
+var youtube = '' 
+var github = ''  
+var panel = ''
+var dash = ''
+var tienda = ''
+var status = ''
+var discord = ''
+var paypal = ''
+let tiktok = ''
+let correo = ''
 
 global.redes = [canal, canal2, git, youtube, github, panel, dash, tienda, status, discord, paypal, tiktok, correo].getRandom()
 
@@ -105,9 +105,9 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/HHXnW.jpg',
-'https://qu.ax/RilnK.jpg',
-'https://qu.ax/TcfhE.jpg'
+'https://qu.ax/CXdEr.jpg',
+'https://qu.ax/MlpeL.jpg',
+'https://qu.ax/WEGkV.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363318758721861@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: namebot, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
